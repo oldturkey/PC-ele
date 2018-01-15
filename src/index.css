@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.ant-transfer {
+	    margin-left: 26px;
+}
+.steps-action {
+	width: 100%;
+}
+.steps-action button {
+	margin-left:45%;
+}
+.steps-content h2 {
+	text-indent: 20%;
+	padding:10px 0;
+}
+.connectDetail span {
+	width:150px;
+	display: inline-block;
+	text-align: center;
+	padding:2px;
+	border: 1px solid #eee;
+}
+.connectDetail .offline span{
+	color:#f5222d;
+}
+.connectDetail .online span{
+	color:#52c41a;
+}
+
+.connectDetail {
+	height:130px;
+	overflow:scroll;
+}
+.ant-confirm-body .ant-confirm-content {
+	margin-left: 20px!important;
+}
+.custom-theme .avatar{
+	width:100px;
+}
+
+.ant-table {
+  min-height:600px;
+}
